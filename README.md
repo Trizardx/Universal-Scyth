@@ -1,0 +1,2 @@
+# Universal-Scyth
+universal script
